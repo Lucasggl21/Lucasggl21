@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Olá! Eu sou o Lucas!
 
-<!--
-**Lucasggl21/Lucasggl21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante da Etec Padre Carlos Leôncio da Silva, atualmente no 2º ano do curso Técnico em Informática para Internet integrado ao Ensino Médio.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em desenvolvimento web e tecnologia, e venho desenvolvendo meus conhecimentos através dos estudos e de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e conhecimentos
+
+🌐 HTML
+
+🎨 CSS
+
+⚡ JavaScript
+
+🗄️ SQL
+
+🛢️ Banco de Dados
+
+📊 Microsoft Excel
+
+📚 Atualmente
+
+Estou no 2º ano do curso técnico, buscando aprimorar minhas habilidades em programação, desenvolvimento web e banco de dados, além de aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos.
+
+🎯 Objetivos
+
+Busco evoluir constantemente na área de tecnologia, desenvolver projetos que contribuam para minha experiência e, futuramente, atuar profissionalmente como desenvolvedor.
+
+📫 Sobre mim
+
+Sou curioso, gosto de aprender coisas novas e tenho interesse em transformar ideias em projetos utilizando tecnologia. Estou sempre buscando novos desafios e oportunidades para colocar meus conhecimentos em prática.
+
+⭐ Seja bem-vindo ao meu perfil!
